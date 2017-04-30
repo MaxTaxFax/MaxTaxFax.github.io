@@ -13,14 +13,15 @@
         padding: 5px;
         border: 75px;
         padding: 10px;
-        font-size:1px;
+        font-size:10px;
         display: block;
 
     }
     nav {
-        background-color:#FF0507 ;
+        background-color: ;
         float: left;
-        width:100px ;
+        width:100%;
+        font-size: 30px
     }
     nav ul {
         padding: ;
